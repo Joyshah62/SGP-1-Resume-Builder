@@ -37,7 +37,7 @@ _**Created by :-**_ <br>[Het Soni ( 21CS068 )](https://github.com/hetsonii)<br>[
 ## Watch Demo Video :-
 
 (Project Demo Link)
-<!-- "[Resume Builder](https://drive.google.com/file/d/1RJTRzXu8fkEIjWIQC1qa4JiIXhZVyYWD/view?usp=sharing)" -->
+"[Resume Builder](https://drive.google.com/file/d/1RJTRzXu8fkEIjWIQC1qa4JiIXhZVyYWD/view?usp=sharing)"
 
 
 ---
